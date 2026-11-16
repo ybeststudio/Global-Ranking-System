@@ -1,0 +1,2 @@
+// Ekle:
+#define ENABLE_GLOBAL_RANKING

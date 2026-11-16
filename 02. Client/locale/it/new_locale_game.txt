@@ -1,0 +1,10 @@
+GLOBAL_RANK_COLUMN_EMPIRE	Impero
+GLOBAL_RANK_COLUMN_GUILD	Gilda
+GLOBAL_RANK_COLUMN_LEVEL	LIVELLO
+GLOBAL_RANK_COLUMN_NAME	Nome
+GLOBAL_RANK_COLUMN_VALUE	Valore
+GLOBAL_RANK_PAGE_GUILD	Classifica gilde
+GLOBAL_RANK_PAGE_MEMBER	Classifica membri della gilda
+GLOBAL_RANK_PAGE_PLAYER	Classifica giocatori
+GLOBAL_RANK_RESET	La classifica verrà azzerata tra: %d g %d h %d min
+GLOBAL_RANK_TITLE	Classifica globale

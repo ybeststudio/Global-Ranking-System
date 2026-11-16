@@ -1,0 +1,10 @@
+GLOBAL_RANK_COLUMN_EMPIRE	Reino
+GLOBAL_RANK_COLUMN_GUILD	Guild
+GLOBAL_RANK_COLUMN_LEVEL	NÍVEL
+GLOBAL_RANK_COLUMN_NAME	Nome
+GLOBAL_RANK_COLUMN_VALUE	Valor
+GLOBAL_RANK_PAGE_GUILD	Classificação de Guildas
+GLOBAL_RANK_PAGE_MEMBER	Classificação de Membros da Guilda
+GLOBAL_RANK_PAGE_PLAYER	Classificação de Jogadores
+GLOBAL_RANK_RESET	A classificação será redefinida em: %d d %d h %d min.
+GLOBAL_RANK_TITLE	Ranking Global

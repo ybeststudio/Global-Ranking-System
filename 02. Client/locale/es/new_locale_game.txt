@@ -1,0 +1,10 @@
+GLOBAL_RANK_COLUMN_EMPIRE	Reino
+GLOBAL_RANK_COLUMN_GUILD	Gremio
+GLOBAL_RANK_COLUMN_LEVEL	NIVEL
+GLOBAL_RANK_COLUMN_NAME	Nombre
+GLOBAL_RANK_COLUMN_VALUE	Valor
+GLOBAL_RANK_PAGE_GUILD	Clasificación de gremios
+GLOBAL_RANK_PAGE_MEMBER	Clasificación de miembros del gremio
+GLOBAL_RANK_PAGE_PLAYER	Clasificación de jugadores
+GLOBAL_RANK_RESET	La clasificación se reiniciará en: %d d %d h %d min
+GLOBAL_RANK_TITLE	Clasificación Global
